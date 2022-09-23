@@ -1,0 +1,95 @@
+body {
+  background-image: url('../Imagens/luzesnoite.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  margin-left: 400px;
+  width: 650px;
+  height: 60px;
+  background-color: black;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  justify-content: space-evenly;
+  align-items: center;
+  display: flex;
+  border: 2px solid grey;
+  border-radius: 10px;
+}
+
+.corpo {
+  margin-left: 540px;
+  width: 350px;
+  height: 360px;
+  background-color: rgba(0,0,0,.6);
+  border: 2px solid grey;
+  border-radius: 10px;
+  margin-top: 100px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bolder;
+  padding-left: 25px;
+  
+  
+}
+
+img {
+  width: 180px;
+  height: 210px;
+  margin-top: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.nome1 {
+  margin-top: 20px;
+  color: grey;
+}
+
+.nome2 {
+  font-size: 20px;
+  color: white;
+}
+
+.nome3 {
+  color: grey;
+  margin-bottom: 20px;
+}
+
+.container3 {
+  width: 377px;
+  height: 50px;
+  background-color: black;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  justify-content: space-evenly;
+  align-items: center;
+  display: flex;
+  border: 2px solid grey;
+  border-radius: 10px;
+}
+
+.corpo3 {
+  width: 350px;
+  height: 507px;
+  background-color: rgba(0,0,0,.6);
+  border: 2px solid grey;
+  border-radius: 10px;
+  margin-top: 50px;
+  font-weight: bolder;
+  font-size: 8px;
+  color: white;
+  padding-left: 20px;
+}
+
+.hobbie1 {
+  align-items: stretch;
+  padding-top: 15px;
+  padding-left: 80px;
+  
+}
+
+
